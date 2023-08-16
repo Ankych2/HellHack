@@ -4,8 +4,6 @@ import Navbar from '../common/Navbar';
 import Footer from '../common/Footer';
 
 const MainLayout = ({ children }) => {
-    console.log("called -------------------",children)
-    console.log("called -------------------",children)
     return (
         <div>
             {/*<Header />*/}
